@@ -131,34 +131,6 @@ The analysis also revealed varying sentiment within YouTube discussions surround
 
 ---
 
-## 📂 Repository Contents
-
-| File                                       | Description                                                              |
-| ------------------------------------------ | ------------------------------------------------------------------------ |
-| `AnalisisSentimen_KursRupiah.ipynb`        | Complete data collection, preprocessing, analysis, and modeling workflow |
-| `Hasil-Labeling-Kurs-Rupiah.csv`           | Labeled sentiment dataset                                                |
-| `Hasil-Preprocesing-KursRupiah-Update.csv` | Processed text dataset                                                   |
-| `naive_bayes_model_kursrupiah.pkl`         | Trained Multinomial Naive Bayes model                                    |
-| `tfidf_vectorizer_kursrupiah.pkl`          | Trained TF-IDF vectorizer                                                |
-| `stopwords_kurs_rupiah.txt`                | Customized stopword list                                                 |
-| `PPT Analisis Sentimen Kurs Rupiah.pdf`    | Project presentation and analysis results                                |
-
----
-
-## 🧠 Skills Demonstrated
-
-* Data Collection & Web API
-* Data Cleaning & Preprocessing
-* Natural Language Processing (NLP)
-* Exploratory Data Analysis
-* Text Feature Engineering
-* Sentiment Analysis
-* Machine Learning Classification
-* Model Evaluation
-* Data Visualization
-
----
-
 ## 🏁 Conclusion
 
 This project demonstrates an **end-to-end NLP workflow** for extracting sentiment insights from unstructured social media data.
